@@ -8,3 +8,5 @@ This website have a beautiful presentation and a great nav bar for mobile pourpo
 This project whas developed whith mobile-first thinking, ensuring great usability for all users.
 
 ![landing](https://user-images.githubusercontent.com/61171975/106526181-e9de6a80-64c3-11eb-924e-2e12870daf14.png)
+
+![mobileSettings](https://user-images.githubusercontent.com/61171975/106527724-7db13600-64c6-11eb-87bd-88414ba4a169.gif)
